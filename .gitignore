@@ -50,3 +50,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+
+# Eclipse
+.project
+
+# Ignore private cookbooks
+weather-at-home-cb
